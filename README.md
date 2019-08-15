@@ -5,4 +5,4 @@ demo of trajectory data analysis using outdoor activity data
 
 数据结构：如demo文件所示
 
-https://github.com/zachary666233/Trajecory_analysis/blob/master/Exhibition/track_beijing_line_density_50.png
+![images](https://github.com/zachary666233/Trajecory_analysis/blob/master/Exhibition/track_beijing_line_density_50.png)
