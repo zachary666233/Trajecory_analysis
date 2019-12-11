@@ -17,4 +17,4 @@ http://www.foooooot.com/
 
 ## Result
 popular trajectory finding using LineDensity Analysis via ArcGIS
-![images](https://github.com/zachary666233/Trajecory_analysis/blob/master/Exhibition/track_beijing_line_density_50.jpg)
+![images](https://www.douban.com/photos/photo/2568954909/large)
